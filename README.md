@@ -1,0 +1,2 @@
+# MineBot
+Discord.py Bot
